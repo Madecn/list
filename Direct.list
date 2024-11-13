@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,synologyupdate.com
 DOMAIN-SUFFIX,synologydownload.com
 DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing123.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,windows.com
@@ -17,6 +18,7 @@ DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,t-msedge.net
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,alibabadns.com
