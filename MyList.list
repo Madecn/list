@@ -1,6 +1,6 @@
 # 代理列表
 
-# MyList && Other
+# MyLista
 DOMAIN-SUFFIX,zenodo.org
 DOMAIN-SUFFIX,lirmm.fr
 DOMAIN-SUFFIX,msdl.microsoft.com
@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,kaggle.net
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,huggingface.co
